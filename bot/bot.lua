@@ -81,6 +81,8 @@ function create_config( )
 		"plugins",
 		"tools",
 	    "fun",
+	  "mohr",
+			
 	},
     sudo_users = {
    374734484,
@@ -94,27 +96,13 @@ An advanced administration bot based on https://valtman.name/telegram-cli
 
 》https://github.com/MrLock1378/BD-MrLock1
 
-》Admins :
-》@SoLiD ➣ Founder & Developer《
-》@Makan ➣ Developer & Sponser《
-》@Rixel ➣ Developer 《
-》@Exacute ➣ Developer《
-》@ToOfan ➣ Developer《
-》@CiveY ➣ Developer
-》@K_a_I_i_I_i_n_u_x ➣ Developer《
-》@CliFather ➣ Developer《
 
-》Special thanks to :
-》@Vysheng
-》@MrHalix
-》@Nero_Dev
-》And Beyond Team Members
+》And MrLock Members
 
 》Our channel :
-》@BeyondTeam《
+》@MrLock_cli
 
-》Our website :
-》http://BeyondTeam.ir
+
 ]],
   }
 	serialize_to_file(config, './data/config.lua')
